@@ -1,0 +1,14 @@
+All the required files have been assigned within the IoT_Security_Door folder
+
+Code for arduino (INO file)
+Circuit diagram (PNG file)
+TaifunNotification.aix is a notification library added to the MIT App inventor interface during making of app (AIX file)
+
+Project details, summary, diagrams, experimentation with proper conclusion with reliable links all have been provided in the "Project Documentation" Microsoft Word Document file.
+
+
+
+**Minor Project constructed as assigned by Smartknower IoT internship program.(JAN-FEB 2021)
+  
+  Rajdeep Shaw
+  Jalpaiguri Government Engineering College  
